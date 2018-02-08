@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerViewCustom</string>
+    <string name="close_button">×</string>
+    <string-array name="sample_raw_data">
+        <item>リストとカードの作成 | Android Developers</item>
+        <item>【Android】RecyclerViewの基本的な実装</item>
+        <item>string-arrayに定義された文字列の配列をArrayListに変換</item>
+    </string-array>
+    <string name="screen_image_description">iPhone X</string>
+</resources>
